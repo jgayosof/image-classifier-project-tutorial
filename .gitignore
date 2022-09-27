@@ -3,7 +3,7 @@ __pycache__
 .learn
 *.zip
 *.jpg
-src/Cat/*
-src/Cat/*
+src/Cat
+src/Dog
 Cat.zip
 Dog.zip
